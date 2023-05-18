@@ -16,4 +16,4 @@
 6. Увімкніть режим <b>Візуально</b>.
 7. Збережіть зміни.
 
-<a target="_blank" href="https://dev.petrov.net.ua/mp-video-embed-wordpress-plugin/"><b>DEMO</b></a>
+<a href="https://dev.petrov.net.ua/mp-video-embed-wordpress-plugin/" target="_blank"><b>DEMO</b></a>
