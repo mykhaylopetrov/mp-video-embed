@@ -1,0 +1,27 @@
+/*
+ * Full width content YouTube video
+ */
+.mp-video-embed {
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.mp-video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 767.98px) {
+  .mp-video-embed iframe {
+    width: 100%;
+    height: 100%;
+  }
+}
